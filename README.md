@@ -351,3 +351,152 @@ Specific findings should be added based on the actual values and patterns displa
 
 ## 11. Conclusion
 The HR Analytics Dashboard provides an interactive view of workforce information using Microsoft Power BI. KPI cards, charts, and slicers help HR professionals monitor employee numbers, attendance, performance, recruitment, turnover, and satisfaction where the necessary data is available. The project demonstrates how data analytics can support workforce monitoring and informed HR decisions.
+
+
+# Real Estate Market Trends Dashboard – Documentation
+
+## 1. Project Overview
+The Real Estate Market Trends Dashboard is developed using Power BI to analyze property prices, rental yield, market demand and supply, economic indicators, and geographical distribution. The dashboard helps users understand real estate market conditions, compare property values across locations, and identify potential investment hotspots.
+
+## 2. Project Objectives
+- Analyze property prices and price trends across different cities and property types.
+- Calculate and compare rental yields to evaluate potential investment opportunities.
+- Track market demand and supply conditions using property counts and available market indicators.
+- Analyze economic indicators, such as inflation, and their relationship with property prices.
+- Use geographical visualization to identify high-value property markets and potential hotspots.
+- Support data-driven real estate investment and market analysis.
+
+## 3. Tools and Technologies Used
+- **Power BI:** Dashboard development and interactive visualizations.
+- **Microsoft Excel:** Dataset storage and data preparation.
+- **DAX:** Calculating KPIs and analytical measures.
+- **Power Query:** Data cleaning and transformation, where applicable.
+
+## 4. Key Performance Indicators (KPIs)
+- Sale-price INR
+- Rental yield
+- price per sq meter
+- Count of market demand
+
+## 5. Dashboard Analysis
+
+### 5.1 Property Market Overview
+**Chart description:** Presents key property market indicators, including property count, average property price, and price per square foot.
+
+**Analysis method:** KPI analysis and comparison of property values across locations and property categories.
+
+**Key findings:** Identify the cities or property categories with the highest and lowest average prices using the dashboard results.
+
+### 5.2 Property Price Trends
+**Chart description:** Displays property price variations across cities, property types, or other available market categories.
+
+**Analysis method:** Comparative analysis of property prices and price-per-square-foot measures.
+
+**Key findings:** Highlight locations with relatively high or low property prices and identify any trends supported by the available data.
+
+### 5.3 Rental Yield Analysis
+**Chart description:** Compares rental yield across cities or property types to assess potential rental investment returns.
+
+**Analysis method:** Calculate rental yield using annual rental income divided by property purchase price, multiplied by 100, when the necessary data is available.
+
+**Formula:**
+
+Rental Yield (%) = (Annual Rental Income / Property Price) × 100
+
+**Key findings:** Identify locations or property types with higher and lower rental yields based on the dashboard.
+
+### 5.4 Market Demand and Supply
+**Chart description:** Examines property availability and demand-related indicators to understand differences across markets.
+
+**Analysis method:** Compare property counts and any available demand or supply measures.
+
+**Key findings:** Identify locations with relatively high property availability or stronger demand indicators. Property counts alone should not be treated as proof of actual demand or supply imbalance.
+
+
+### 5.5. Property Price and Inflation Rate
+
+**Chart Description:**  
+This chart compares property prices with the inflation rate to understand how real estate prices vary in relation to changes in the general price level of the economy.
+
+**Analysis Method:**  
+Comparative analysis of property prices and inflation rates across the available cities or time periods.
+
+**Key Findings:**  
+The chart helps identify whether property prices increase or decrease alongside inflation. It highlights possible relationships between inflation and property price movements based on the available dataset.
+
+### 5.6. Property Count by Month
+
+**Chart Description:**  
+This chart displays the monthly number of properties recorded in the dataset to show how property listings or records vary over time.
+
+**Analysis Method:**  
+Monthly aggregation and trend analysis using the property date field and property count.
+
+**Key Findings:**  
+The chart identifies months with the highest and lowest numbers of recorded properties and highlights monthly variations in property availability.
+
+### 5.7. Economic Indicator Analysis
+**Chart description:** Compares available economic indicators, such as inflation, with property prices.
+
+**Analysis method:** Compare indicator values across locations or periods and examine potential relationships with property prices.
+
+**Key findings:** Describe any observed relationship between economic indicators and property prices without assuming that one causes the other.
+
+### 5.8 Geographical Market Analysis
+**Chart description:** Uses a map or heat map to display property prices, property concentration, or rental yield across geographical locations.
+
+**Analysis method:** Compare geographical differences using location-based values and color intensity.
+
+**Key findings:** Identify geographical areas with high property prices, concentrated property listings, or stronger rental yields, depending on the measure displayed.
+
+ # Market Analysis
+
+## 6.1 Sales Price by Property Type
+
+**Chart Description:**  
+This chart compares sales prices across different property types to understand variations in property values.
+
+**Analysis Method:**  
+Comparative analysis of sales prices grouped by property type.
+
+**Key Findings:**  
+Identifies property types with the highest and lowest sales prices and highlights differences in property values across categories.
+
+## 6.2. Price per Square Feet by City
+
+**Chart Description:**  
+This chart compares the price per square foot across cities to identify geographical differences in real estate pricing.
+
+**Analysis Method:**  
+City-wise comparison of property prices per square foot.
+
+**Key Findings:**  
+Highlights cities with higher and lower prices per square foot, helping identify differences in property valuation across locations.
+
+## 6.3. Property Count by Sales Price
+
+**Chart Description:**  
+This chart displays the number of properties across different sales price values or price ranges to understand the distribution of properties by price.
+
+**Analysis Method:**  
+Property count aggregation and comparison across sales price categories or ranges.
+
+**Key Findings:**  
+Identifies sales price ranges containing the highest and lowest numbers of properties and shows how properties are distributed across different price segments.
+
+## 7. Interactive Features
+- City or location slicer
+- Property type slicer
+- property age ,Transaction type.
+
+These features allow users to filter the dashboard and compare different segments of the real estate market.
+
+## 7. Conclusion
+The Real Estate Market Trends Dashboard provides an interactive overview of property prices, rental yield, market demand and supply indicators, economic factors, and geographical market differences. It supports comparisons across locations and helps identify areas for further investigation. The findings should be interpreted in the context of the available dataset and should not be considered a guarantee of future property performance.
+
+## 8. Limitations
+- The analysis depends on the completeness and accuracy of the available dataset.
+- Rental yield calculations require reliable rental income and property price information.
+- Demand and supply conclusions require appropriate market indicators, not just property counts.
+- Economic relationships do not necessarily establish causation.
+- Geographical hotspots reflect the selected metric and dataset coverage rather than guaranteed investment opportunities.

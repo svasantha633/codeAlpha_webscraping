@@ -640,3 +640,304 @@ A well-defined recruitment process helps startups attract suitable candidates an
 **Internship Domain:** Human Resource Management
 
 
+ # TASK 2: HR POLICY DRAFTING
+**Internship Organization:** CodeAlpha  
+**Domain:** Human Resource Management  
+**Task Name:** HR Policy Drafting  
+**Prepared By:** Vasantha S.
+
+---
+
+## 1. Introduction
+
+HR policies are a set of guidelines and rules established by an organization to manage employees and maintain a professional working environment.
+
+The purpose of this task is to develop basic HR policies for a startup organization. These policies help employees understand workplace expectations, leave procedures, professional behaviour, and remote working guidelines.
+
+## 2. Objectives
+
+- To understand the importance of HR policies.
+- To establish clear workplace rules and regulations.
+- To define employee leave procedures.
+- To promote professional behaviour and discipline.
+- To provide guidelines for remote working.
+- To create a positive and productive work environment.
+
+## 3. Employee Leave Policy
+
+### Purpose
+
+The employee leave policy provides guidelines for employees who need time off from work for personal, medical, or other valid reasons.
+
+### Policy Guidelines
+
+1. Employees should inform their reporting manager before taking planned leave.
+2. Leave requests must be submitted through the approved HR process.
+3. Emergency leave should be communicated to the manager as soon as possible.
+4. Employees requesting extended leave should provide sufficient notice.
+5. Leave approval depends on business requirements and applicable employment rules.
+6. Public holidays will be followed according to the organization's holiday calendar.
+7. HR will maintain proper records of employee leave and attendance.
+
+### Expected Benefits
+
+- Better attendance management.
+- Improved workforce planning.
+- Transparency in leave approvals.
+- Better employee work-life balance.
+
+## 4. Employee Code of Conduct Policy
+
+### Purpose
+
+The Code of Conduct policy establishes standards of professional behaviour and workplace ethics that all employees are expected to follow.
+
+### Policy Guidelines
+
+1. Employees must treat colleagues, managers, and customers with respect.
+2. Employees should maintain punctuality and workplace discipline.
+3. Discrimination, harassment, and inappropriate behaviour are prohibited.
+4. Employees must maintain confidentiality of company information.
+5. Company resources should be used responsibly.
+6. Employees should communicate professionally with team members.
+7. Employees must follow organizational rules and instructions.
+8. Employees should demonstrate honesty, integrity, and accountability.
+9. Conflicts should be reported to the appropriate manager or HR department.
+10. Employees are expected to maintain a safe and respectful workplace.
+
+### Expected Benefits
+
+- Professional workplace culture.
+- Better teamwork and communication.
+- Reduced workplace conflicts.
+- Improved employee discipline.
+- A respectful and inclusive environment.
+
+## 5. Work From Home (WFH) Policy
+
+### Purpose
+
+The Work From Home policy provides guidelines for employees who perform their duties remotely. It ensures productivity, communication, accountability, and data security.
+
+### Policy Guidelines
+
+1. Employees must obtain approval from their reporting manager before working remotely.
+2. Employees should maintain their assigned working hours.
+3. Employees must attend scheduled online meetings.
+4. Assigned tasks should be completed within the given deadlines.
+5. Employees should maintain regular communication with managers and team members.
+6. Company information must be protected and kept confidential.
+7. Employees should use secure internet connections and authorized devices.
+8. Employees must avoid sharing confidential information with unauthorized individuals.
+9. Employees should maintain professional behaviour during online meetings.
+10. Managers should monitor work progress and provide necessary support.
+
+### Expected Benefits
+
+- Flexible working arrangements.
+- Improved work-life balance.
+- Reduced commuting time.
+- Better employee productivity.
+- Improved digital communication.
+
+## 6. HR Policy Implementation
+
+The HR department is responsible for communicating these policies to employees and ensuring that everyone understands the guidelines.
+
+The organization should:
+
+- Share HR policies with all employees.
+- Explain policy requirements during employee onboarding.
+- Maintain employee acknowledgements.
+- Review policies periodically.
+- Update policies according to organizational requirements and applicable labour laws.
+
+## 7. Expected Outcomes
+
+The implementation of these HR policies is expected to:
+
+1. Improve employee discipline and accountability.
+2. Establish clear workplace expectations.
+3. Support effective attendance and leave management.
+4. Encourage professional behaviour.
+5. Improve remote working practices.
+6. Create a positive workplace environment.
+
+## 8. Conclusion
+
+This task helped develop practical knowledge of HR policy preparation and documentation. Three important policies were drafted: Employee Leave Policy, Employee Code of Conduct Policy, and Work From Home Policy.
+
+These policies provide clear guidelines for employees and help organizations maintain discipline, transparency, productivity, and a positive working environment.
+
+---
+
+**Task Status:** Completed
+
+**Prepared By:** Vasantha S.  
+**Internship:** CodeAlpha – Human Resource Management
+
+
+# TASK 3: EMPLOYEE ENGAGEMENT AND SATISFACTION SURVEY
+
+**Internship Organization:** CodeAlpha  
+**Domain:** Human Resource Management  
+**Task Name:** Employee Engagement and Satisfaction Survey  
+**Prepared By:** Vasantha S.
+
+---
+
+## 1. Introduction
+
+Employee engagement refers to the level of commitment, motivation, and satisfaction employees have towards their organization.
+
+An employee engagement survey is an important HR tool used to collect employee feedback about workplace culture, management support, communication, job satisfaction, teamwork, and work-life balance.
+
+The purpose of this task is to conduct an employee engagement survey using Google Forms, collect responses, and understand employee satisfaction levels.
+
+## 2. Objectives
+
+- To measure employee satisfaction.
+- To understand employee opinions about the workplace.
+- To evaluate management and team support.
+- To identify workplace challenges.
+- To collect employee feedback and suggestions.
+- To recommend improvements for employee engagement.
+
+## 3. Survey Methodology
+
+**Survey Platform:** Google Forms
+
+**Target Group:** Employees
+
+**Data Collection Method:** Online questionnaire
+
+**Number of Responses:** 5 responses collected
+
+**Question Types:** Multiple-choice questions, rating-scale questions, and open-ended questions.
+
+**Analysis Tools:** Google Forms and Microsoft Excel.
+
+## 4. Employee Engagement Survey Questions
+
+The following 12 questions were prepared for collecting employee feedback.
+
+1. Are you satisfied with your current job role?
+2. Do you feel comfortable working with your team?
+3. Is the workplace environment positive and supportive?
+4. Do you receive proper support from your manager?
+5. Are you satisfied with communication within the organization?
+6. Do you receive recognition for your work?
+7. Are you satisfied with your current workload?
+8. Do you have a healthy work-life balance?
+9. Are training and development opportunities provided?
+10. Do you feel motivated to achieve your work goals?
+11. Would you recommend this organization as a good workplace?
+12. What improvements would you suggest to make the workplace better?
+
+## 5. Data Collection
+
+The employee engagement questionnaire was created using Google Forms and shared with respondents to collect feedback.
+
+A total of five responses were collected through the online survey.
+
+The responses provide information about employee opinions, workplace satisfaction, management support, and areas that may require improvement.
+
+## 6. Data Analysis Techniques
+
+The collected survey responses can be analyzed using the following methods:
+
+### A. Frequency Analysis
+
+Frequency analysis identifies how many employees selected each response option.
+
+### B. Percentage Analysis
+
+Percentage analysis helps identify the proportion of employees who selected a particular response.
+
+**Formula:**
+
+Percentage = (Number of Responses / Total Number of Responses) × 100
+
+**Example:**
+
+If 4 out of 5 employees are satisfied:
+
+Percentage = (4 / 5) × 100 = 80%
+
+Therefore, the satisfaction percentage is 80%.
+
+### C. Graphical Analysis
+
+Google Forms automatically generates charts based on the collected responses.
+
+The following charts can be used:
+
+- Pie charts to show response distribution.
+- Bar charts to compare satisfaction levels.
+- Rating charts to understand employee opinions.
+
+## 7. Key Areas of Analysis
+
+The survey focuses on the following important areas:
+
+1. Job satisfaction.
+2. Teamwork and collaboration.
+3. Workplace environment.
+4. Management support.
+5. Organizational communication.
+6. Employee recognition.
+7. Workload satisfaction.
+8. Work-life balance.
+9. Training and development.
+10. Employee motivation.
+
+## 8. Key Findings
+
+The collected responses will be evaluated to identify:
+
+- Overall employee satisfaction levels.
+- Positive aspects of the workplace.
+- Areas where employees need additional support.
+- Employee opinions about management and communication.
+- Suggestions for improving workplace culture.
+
+**Note:** Actual findings and percentages should be added after analyzing all five responses. No assumptions are made about the survey results.
+
+## 9. Recommendations
+
+Based on the survey analysis, the organization can consider the following improvements:
+
+1. Improve communication between employees and management.
+2. Conduct regular employee feedback sessions.
+3. Provide training and development opportunities.
+4. Recognize and appreciate employee achievements.
+5. Encourage teamwork and collaboration.
+6. Promote a healthy work-life balance.
+7. Address employee concerns promptly.
+8. Create a positive and supportive workplace environment.
+
+## 10. Expected Outcomes
+
+- Better understanding of employee satisfaction.
+- Identification of workplace improvement areas.
+- Improved employee engagement.
+- Better communication between employees and management.
+- Support for effective HR decision-making.
+- Improved employee motivation and productivity.
+
+## 11. Conclusion
+
+This task provided practical knowledge of employee engagement survey preparation, data collection, and analysis.
+
+Google Forms was used to design the questionnaire and collect five responses. The survey provides an opportunity to understand employee opinions and identify areas that require improvement.
+
+The findings can help organizations develop better HR strategies, improve employee satisfaction, and create a positive working environment.
+
+---
+
+**Task Status:** Survey Created – Completed | 5 Responses Collected – Completed | Detailed Analysis – To Be Finalized
+
+**Prepared By:** Vasantha S.  
+**Internship:** CodeAlpha – Human Resource Management
+https://docs.google.com/forms/d/e/1FAIpQLSdS46ca733FZsMHSYGA64Ot5zF-FSHQRZEHeZGb2ocJptdBXg/viewform?usp=header
+link to view google form

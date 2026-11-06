@@ -941,3 +941,4 @@ The findings can help organizations develop better HR strategies, improve employ
 **Internship:** CodeAlpha – Human Resource Management
 https://docs.google.com/forms/d/e/1FAIpQLSdS46ca733FZsMHSYGA64Ot5zF-FSHQRZEHeZGb2ocJptdBXg/viewform?usp=header
 link to view google form
+charts are in under file of task 3 and responses are under one of commit 
